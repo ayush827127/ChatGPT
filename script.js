@@ -4,7 +4,7 @@ const chatContainer = document.querySelector(".chat-container");
 const deleteButton = document.querySelector("#delete-btn");
 
 let userText = null;
-const API_KEY = "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"; // Paste your API key here
+const API_KEY = "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"; //  API key 
 
 const loadDataFromLocalstorage = () => {
     // Load saved chats from local storage and apply/add on the page
